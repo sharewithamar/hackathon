@@ -1,0 +1,7 @@
+{
+  "name": "landing",
+  "short_name": "landing",
+  "description": "landing page for currency",
+  "start_url": "/",
+  "display": "standalone"
+}
